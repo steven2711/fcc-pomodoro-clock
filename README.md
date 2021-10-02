@@ -1,4 +1,4 @@
-# React Drum Machine
+# React Pomodoro Clock
 
 This project is part of FreeCodecamp's Frontend Developer Certification. Simply clone this repository and install the dependecies!
 
