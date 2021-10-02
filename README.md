@@ -7,7 +7,7 @@ This project is part of FreeCodecamp's Frontend Developer Certification. Simply 
 Run this in the directory you would like this project.
 
 ```
-git clone https://github.com/steven2711/fcc-drum-machine.git
+git clone https://github.com/steven2711/fcc-pomodoro-clock.git
 ```
 
 ## Install dependencies
